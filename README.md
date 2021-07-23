@@ -38,5 +38,12 @@ O Visual Studio Code (VS Code) é um editor de código extensível. Para documen
 
 ## GitHub 
 
-Faça uma bifurcação (*fork*) deste projeto.
+Faça uma bifurcação (*fork*) deste projeto. No canto superior direito da página, clique em Fork (Bifurcação).
+
+![Bifurcação](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
+
+A bifurcação (*fork*) tem várias utilidades em um projeto do GitHub. Ela será utilizada nesta documentação com a finalidade de [usar o projeto de outra pessoa como ponto de partida para sua própria ideia](https://docs.github.com/pt/github/getting-started-with-github/quickstart/fork-a-repo#use-someone-elses-project-as-a-starting-point-for-your-own-idea).
+
+
+
 
