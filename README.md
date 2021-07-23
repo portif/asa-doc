@@ -58,7 +58,20 @@ A bifurcação (*fork*) tem várias utilidades em um projeto do GitHub. Ela ser�
 
 5. Crie um ambiente virtual para o Python: `./cria-ambiente.sh`
 
-6. Ative o novo ambiente virtual: ``
+6. Ative o novo ambiente virtual: `source env/Scripts/activate`
+
+7. Instale os requisitos para gerar a documentação: `pip3 install -r requirements.txt`
+
+8. Execute o VS Code no diretório atual: `code .`
+
+## Documentação no VS Code
+
+Com a pasta de documentação aberta no VS Code, vamos escolher o interpretador do Python que será utilizado para gerar a documentação.
+
+1. Abra a *Paleta de comandos* (Menu Ver -> Paleta de comandos)
+2. Digite: `Python: Selecionar Interpretador`
+3. Pressione `ENTER`
+4. 
 
 
 
