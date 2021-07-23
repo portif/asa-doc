@@ -36,7 +36,7 @@ O Visual Studio Code (VS Code) é um editor de código extensível. Para documen
 - [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
 - [MyST-Markdown](https://marketplace.visualstudio.com/items?itemName=ExecutableBookProject.myst-highlight)
 
-## GitHub 
+## Bifurcação do projeto no GitHub 
 
 Faça uma bifurcação (*fork*) deste projeto. No canto superior direito da página, clique em Fork (Bifurcação).
 
@@ -44,6 +44,21 @@ Faça uma bifurcação (*fork*) deste projeto. No canto superior direito da pág
 
 A bifurcação (*fork*) tem várias utilidades em um projeto do GitHub. Ela será utilizada nesta documentação com a finalidade de [usar o projeto de outra pessoa como ponto de partida para sua própria ideia](https://docs.github.com/pt/github/getting-started-with-github/quickstart/fork-a-repo#use-someone-elses-project-as-a-starting-point-for-your-own-idea).
 
+## Clonagem do projeto do GitHub em sua máquina local
+
+1. Copie a URL de sua bifurcação (*fork*) do projeto "asa-doc" (Atalho: `CTRL+L`, `CTRL+C`) ou clique no botão `Code`, depois HTTPS e clique no ícone da prancheta. Para aprender mais sobre clonagem, leia: [Clonar um repositório - GitHub Docs](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+
+2. Abra o *Explorador de Arquivos* do Windows, selecione (ou crie) a pasta onde você guarda material sobre a disciplina, clique com o botão direito do mouse e selecione a opção **Git Bash Here**.
+
+3. Execute os seguintes comando: `git clone <URL>`
+
+    No lugar de `<URL>`, cole o endereço copiado no passo 1 (Atalho: `Shift+Insert` ou botão direito do mouse, depois selecione *Paste*)
+
+4. Entre na pasta criada para o projeto: `cd asa-doc`
+
+5. Crie um ambiente virtual para o Python: `./cria-ambiente.sh`
+
+6. Ative o novo ambiente virtual: ``
 
 
 
