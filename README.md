@@ -35,6 +35,8 @@ O Visual Studio Code (VS Code) é um editor de código extensível. Para documen
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
 - [MyST-Markdown](https://marketplace.visualstudio.com/items?itemName=ExecutableBookProject.myst-highlight)
+- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+    - Para maiores detalhes sobre esta extensão, leia: [Use Live Share para colaborar melhor no Visual Studio Code](https://docs.microsoft.com/pt-br/visualstudio/liveshare/use/vscode#install-the-live-share-extension)
 
 ## Bifurcação do projeto no GitHub 
 
