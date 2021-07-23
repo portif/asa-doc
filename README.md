@@ -56,13 +56,7 @@ A bifurcação (*fork*) tem várias utilidades em um projeto do GitHub. Ela ser�
 
 4. Entre na pasta criada para o projeto: `cd asa-doc`
 
-5. Crie um ambiente virtual para o Python: `./cria-ambiente.sh`
-
-6. Ative o novo ambiente virtual: `source env/Scripts/activate`
-
-7. Instale os requisitos para gerar a documentação: `pip3 install -r requirements.txt`
-
-8. Execute o VS Code no diretório atual: `code .`
+5. Crie um ambiente virtual para o Python: `./configurar-ambiente.sh`
 
 ## Documentação no VS Code
 
