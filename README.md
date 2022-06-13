@@ -67,7 +67,3 @@ Com a pasta de documentação aberta no VS Code, vamos escolher o interpretador 
 1. Abra a *Paleta de comandos* (Menu Ver -> Paleta de comandos)
 2. Digite: `Python: Selecionar Interpretador`
 3. Pressione `ENTER`
-4. 
-
-
-
